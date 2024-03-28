@@ -1,6 +1,4 @@
 # azure-devops
-This is repo for azure
+This is repo for azure devops.
 
-##This was edited in CLoud Shell
-
- azuredevops test 
+##This was edited in Cloud Shell
