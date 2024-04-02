@@ -1,5 +1,5 @@
 hello:
-	echo "This is my first make command"
+	echo "this is my first make command"
 install:
-	echo "Install pip command"
-#test
+	pip install --upgrade pip &&\
+		pip install -r requirements.txt
